@@ -1,0 +1,9 @@
+Objects
+XClarityAdministrator
+XClarityOSImage
+XClarityOSImageProfile
+XClarityRepository
+XClarityServer
+XClarityServerPattern
+XClarityTask
+XClarityTaskInfo

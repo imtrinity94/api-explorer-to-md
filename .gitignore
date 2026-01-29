@@ -1,15 +1,12 @@
-# Ignore everything
-*
-
-# Allow directories so we can look for .md files inside them
-!*/
-
-# Explicitly ignore unwanted directories
+# Dependencies
 node_modules/
+
+# Local Browser Profile
 chrome_profile/
 
-# Allow .md files
-!*.md
+# Temporary Trigger File
+ready.txt
 
-# Allow .gitignore itself
-!.gitignore
+# OS File System files
+.DS_Store
+Thumbs.db
