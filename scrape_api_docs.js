@@ -17,8 +17,8 @@ function findBrowser() {
 
 // Configuration
 const TARGET_URL = 'https://vra1.vcf.lab/orchestration-ui/#/explorer'; // Base URL
-const OUTPUT_FILE = 'Infoblox_Docs_Generated.md';
-const INPUT_LIST_FILE = 'infoblox_list.txt';
+const OUTPUT_FILE = 'Cohesity_Docs_Generated.md';
+const INPUT_LIST_FILE = 'cohesity_list.txt';
 
 // Read classes from file
 let classesToScrape = [];
@@ -58,7 +58,8 @@ try {
         headless: false,
         defaultViewport: null,
         executablePath: executablePath,
-        userDataDir: './chrome_profile'
+        userDataDir: './chrome_profile',
+        ignoreHTTPSErrors: true
     });
     const page = await browser.newPage();
 
@@ -69,7 +70,7 @@ try {
         console.log('--------------------------------------------------------------------------------');
         console.log('MANUAL PREPARATION REQUIRED:');
         console.log('1. Log in to the application.');
-        console.log('2. Navigate to the plugin (vCenter) in the tree.');
+        console.log('2. Navigate to the plugin (Cohesity) in the tree.');
         console.log('3. Manually expand all nodes (click "Load more" until all items are visible).');
         console.log('   (The user has indicated they will do this manually).');
         console.log(`4. When you are ready to start scraping, create a file named "ready.txt" in:`);
@@ -89,7 +90,7 @@ try {
 
         // Initialize output file
         if (!fs.existsSync(OUTPUT_FILE)) {
-            fs.writeFileSync(OUTPUT_FILE, "# Infoblox IPAM Reference\n\nGenerated Documentation\n\n");
+            fs.writeFileSync(OUTPUT_FILE, "# Cohesity Reference\n\nGenerated Documentation\n\n");
         }
 
         // 2. Scrape Loop
