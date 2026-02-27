@@ -4733,3 +4733,525 @@ Add excluded disk for a VM.
 
 ---
 
+## CSAagGroup
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSAAGNodesAndDatabases
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSAgentInfo
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSAgentInformation
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSAlertingConfig
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSAlertPolicy
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSAlertTarget
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSAlternateLocationParams
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSAppEntity
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSApplicationParameters
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSApplicationRestoreObjects
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSArchivalTarget
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSBGMappingConfigManager
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSBGMappingConfiguration
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSBifrostConnection
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSCloneTaskRequest
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSClusterComputeResource
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSClusterInfo
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSClusterPartition
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSClusterResource
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSCohesityConnection
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSCohesityConnectionFolder
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSCohesityConnectionManager
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSCopyRun
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSCredentials
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSDataCenterResource
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSDatastore
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSDiskLocation
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSDiskToOverwrite
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSEmailConfiguration
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSEmailConfigurationFolder
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSEmailConfigurationManager
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSEndpoint
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSEndpointSelectionConfiguration
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSEndpointSelectionManager
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSEntity
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSEnvironmentParameters
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSExcludedDisk
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSFciCluster
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSFilePaths
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSFilesOrFoldersResource
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSGlobalId
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSHost
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSHostingProtectionSource
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSIncrementalProtectionStartTime
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSIndexingPolicy
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSIndexingPolicyV2
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSInstance
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSJobUid
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSMssqlConnectionResponseParams
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSMTManager
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSNetworkEntities
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSNetworkResource
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSNewSourceConfig
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSNewUserParam
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSNode
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSNotificationMailData
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSObjectResource
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSObjectSnapshot
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSObjectSnapshots
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSOracleManager
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSOracleProtectionGroupDatabaseParams
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSOracleProtectionGroupObject
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSOracleProtectionGroupParams
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSOracleProtectionSource
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSOracleSource
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSOracleSpecialParameters
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSOracleTargetParams
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSOriginalSourceConfig
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSOwnerObject
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSOwnerRestoreInfo
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSOwnerRestoreParams
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSPhysicalFileBackupPathParams
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSPhysicalFileProtectionGroupObjectParams
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSPhysicalFileProtectionGroupParams
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSPhysicalMachine
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSPhysicalParams
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSPhysicalProtectionGroupParams
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSPhysicalProtectionSource
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSPhysicalSpecialParameters
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSPhysicalVolumeProtectionGroupObjectParams
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSPhysicalVolumeProtectionGroupParams
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSPrincipalManager
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSProtectedNode
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSProtectionGroup
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSProtectionGroupManager
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSProtectionJob
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSProtectionJobFolder
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSProtectionJobManager
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSProtectionJobNameResource
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSProtectionJobSummary
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSProtectionPolicy
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSProtectionPolicyManager
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSProtectionRun
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSProtectionSource
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSProtectionSourceManager
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSProtectionSourceParameter
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSRecoverDatabaseParams
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSRecoverDiskRequest
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSRecoverOracleDatabaseSnapshotParams
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSRecoverOracleDbParams
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSRecoverOracleEnvironmentParams
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSRecoverRequestParamsV2
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSRecoverSQLApplicationRequest
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSRecoverSQLDatabaseRequest
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSRecoverVirtualDiskParams
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSRecoveryObject
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSRedoLogConfig
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSReplicaInfoList
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSReplicationTarget
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSReport
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSReportJobParameter
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSReportManager
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSReportParameters
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSReportRequest
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSResourceInfo
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSResourcePool
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSResourcePoolResource
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSRestoreAppObjectVec
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSRestoreAppParams
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSRestoreFileRequest
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSRestoreObject
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSRestoreParams
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSRestoreRequestJobUid
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSRestoreTaskRequest
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSRootNode
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSRunNowParameter
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSScheduleJobParameters
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSSla
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSSnapshotReplicationCopyPolicies
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSSnapshotResource
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSSnapshotTargetSettings
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSSnapshotVersion
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSSourceBackupstatus
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSSourceRootNode
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSSourceSpecialParameters
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSSQLError
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSSQLManager
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSSqlParameters
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSSQLProtectionSource
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSSqlRestoreParameters
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSSqlRestoreParams
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSSQLServer
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSSQLSpecialParameters
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSSrcDisk
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSStartTime
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSStorageDomainManager
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSStoragePolicy
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSTagManager
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSTargetEntity
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSTargetLocation
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSTenant
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSTenantCreateParameters
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSTenantManager
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSTenantMappingConfigManager
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSTenantMappingConfiguration
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSTestConnectionResponse
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSUdaParams
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSUdaParamsInfo
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSUdaParamsObject
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSUDASourceRegistrationParams
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSUDASourceRegistrationResp
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSUnprotectedSourcesFolder
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSVCenterResource
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSViewBox
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSViewBoxCreate
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSViewParams
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSVirtualDisk
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSVirtualDiskInformation
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSVirtualDiskMapping
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSVirtualMachine
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSVirtualMachineManager
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSVmWareProtectionSource
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
+## CSVmwareSpecialParameters
+*Error scraping: Attempted to use detached Frame 'A3C3BF2CD7E4D7CB2BDB6BFBD085BCB8'.*
+
