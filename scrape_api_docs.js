@@ -17,8 +17,8 @@ function findBrowser() {
 
 // Configuration
 const TARGET_URL = 'https://vra1.vcf.lab/orchestration-ui/#/explorer'; // Base URL
-const OUTPUT_FILE = 'VCF_Automation_Docs_Generated.md';
-const INPUT_LIST_FILE = 'vcf_automation_list.txt';
+const OUTPUT_FILE = 'Azure_Docs_Generated.md';
+const INPUT_LIST_FILE = 'azure_list.txt';
 
 // Read classes from file
 let classesToScrape = [];
@@ -76,7 +76,7 @@ try {
         console.log('--------------------------------------------------------------------------------');
         console.log('MANUAL PREPARATION REQUIRED:');
         console.log('1. Log in to the application.');
-        console.log('2. Navigate to the plugin (VCF Automation) in the tree.');
+        console.log('2. Navigate to the plugin (Azure) in the tree.');
         console.log('3. Manually expand all nodes (click "Load more" until all items are visible).');
         console.log('   (The user has indicated they will do this manually).');
         console.log(`4. When you are ready to start scraping, create a file named "ready.txt" in:`);
@@ -96,7 +96,7 @@ try {
 
         // Initialize output file
         if (!fs.existsSync(OUTPUT_FILE)) {
-            fs.writeFileSync(OUTPUT_FILE, "# VCF Automation Reference\n\nGenerated Documentation\n\n");
+            fs.writeFileSync(OUTPUT_FILE, "# Azure Reference\n\n**Version:** 1.3.0.24648698  \n**Download Link:** [Broadcom Knowledge Base](https://knowledge.broadcom.com/external/article/391736/azure-plugin-fails-to-load-on-aria-autom.html)\n\nGenerated Documentation\n\n");
         }
 
         // 2. Scrape Loop
